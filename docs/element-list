@@ -1,0 +1,10 @@
+edu.monash.fit2099.engine
+edu.monash.fit2099.interfaces
+game
+game.Attacks
+game.Behaviours
+game.Capability
+game.Dinosaurs
+game.ImplimentedActions
+game.Items
+game.Terrain
